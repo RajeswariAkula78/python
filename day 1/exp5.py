@@ -1,0 +1,5 @@
+x=int(input("price of doll"))
+y=int(input("discount percentage"))
+z=("amount to be paid after discount")
+z=x-y*(x/100)
+print(z)
